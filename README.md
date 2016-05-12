@@ -1,6 +1,6 @@
 # Library
 A Borland C++ project made for learning purposes.
-Has functionalities:
+Has functionalities for:
 Adding, editing, deleting book and member information
 Date checking for fine without using any libraries.
 Uses graphics for a better console experience.
